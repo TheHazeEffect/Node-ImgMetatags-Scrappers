@@ -1,0 +1,6 @@
+image: node:9
+
+install_dependencies:
+  script:
+  - npm install
+  
